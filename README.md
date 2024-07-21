@@ -1,4 +1,4 @@
-# Hướng đẫn sử dụng 
+# Hướng dẫn sử dụng 
 Nội dung thực tập chính:
  -   Nghiên cứu mô hình hệ thống IDPS cho mạng Hybrid sử dụng công nghệ Machine Learning
 Sau đây là mô hình cơ bản của mô ML cho hệ thống IDPS:

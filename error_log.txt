@@ -1,0 +1,6 @@
+Error in load_and_preprocess_data: could not convert string to float: 'tcp'
+Error in main: could not convert string to float: 'tcp'
+Error in load_and_preprocess_data: could not convert string to float: 'tcp'
+Error in main: could not convert string to float: 'tcp'
+Error in load_and_preprocess_data: could not convert string to float: 'tcp'
+Error in main: could not convert string to float: 'tcp'

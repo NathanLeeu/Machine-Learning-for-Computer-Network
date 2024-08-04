@@ -4,3 +4,160 @@ Error in load_and_preprocess_data: could not convert string to float: 'tcp'
 Error in main: could not convert string to float: 'tcp'
 Error in load_and_preprocess_data: could not convert string to float: 'tcp'
 Error in main: could not convert string to float: 'tcp'
+Error in load_and_preprocess_data: could not convert string to float: 'tcp'
+Error in main: could not convert string to float: 'tcp'
+Error in load_and_preprocess_data: could not convert string to float: 'tcp'
+Error in main: could not convert string to float: 'tcp'
+Error in load_and_preprocess_data: could not convert string to float: 'tcp'
+Error in load_and_preprocess_data: could not convert string to float: 'tcp'
+Error in load_and_preprocess_data: Trailing data
+Error in load_and_preprocess_data: The dataset must contain a 'label' column.
+Error in main execution: The dataset must contain a 'label' column.
+Error in load_and_preprocess_data: The dataset must contain a 'label' column.
+Error in main execution: The dataset must contain a 'label' column.
+Error in load_and_preprocess_data: The dataset must contain a 'label' column.
+Error in main execution: The dataset must contain a 'label' column.
+Error in load_and_preprocess_data: The dataset must contain a 'label' column.
+Error in main function: The dataset must contain a 'label' column.
+Error in load_and_preprocess_data: could not convert string to float: 'udp'
+Error in main: could not convert string to float: 'udp'
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi trong load_and_preprocess_data: HTTP Error 404: Not Found
+Lỗi trong main: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: HTTP Error 404: Not Found
+Lỗi trong main: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: HTTP Error 404: Not Found
+Lỗi trong main: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: HTTP Error 404: Not Found
+Lỗi trong main: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: HTTP Error 404: Not Found
+Lỗi trong main: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong __main__: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong __main__: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi không mong đợi: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: "['label'] not found in axis"
+Lỗi trong main: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: "['label'] not found in axis"
+Lỗi trong main: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_data: "['label'] not found in axis"
+Lỗi trong main: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi trong load_combined_data: [Errno 22] Invalid argument
+Lỗi trong chương trình chính: [Errno 22] Invalid argument
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong main: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong chương trình chính: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi trong load_combined_data: [Errno 22] Invalid argument
+Lỗi trong main: [Errno 22] Invalid argument
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository1/branch/path/to/KDD_Cup_1999.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository3/branch/path/to/another_dataset.csv: HTTP Error 404: Not Found
+Lỗi khi tải dữ liệu từ URL https://raw.githubusercontent.com/username/repository2/branch/path/to/CICIDS_2017.csv: HTTP Error 404: Not Found
+Lỗi trong preprocess_combined_data: "['label'] not found in axis"
+Lỗi trong main: "['label'] not found in axis"
+Lỗi khi tải dữ liệu từ URL: HTTP Error 404: Not Found
+Lỗi trong load_and_preprocess_data: The dataset must contain a 'label' column.
+Lỗi trong main: The dataset must contain a 'label' column.
